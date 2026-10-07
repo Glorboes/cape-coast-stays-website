@@ -1,134 +1,74 @@
 [
   {
-    "name": "11 Xanadu",
-    "url": "https://capecoaststays.com/product/11-xanadu/",
-    "image": "assets/11-xanadu.webp",
-    "region": "Cape coastline"
+    "id": "biccardi",
+    "name": "14 Biccardi Beach House",
+    "url": "https://www.airbnb.co.uk/rooms/1739698793281384912",
+    "image": "assets/airbnb-1739698793281384912.webp",
+    "region": "Cape Town",
+    "short": "4 bedrooms · 5 beds · 3 bathrooms",
+    "description": "14 Biccardi Beach House is part of our Cape Town collection. 4 bedrooms. 5 beds. 3 bathrooms. View the Airbnb listing for full amenities, availability and current rates."
   },
   {
+    "id": "14-big-bay-beach-club",
     "name": "14 Big Bay Beach Club",
-    "url": "https://capecoaststays.com/product/14-big-bay-beach-club/",
-    "image": "assets/14-big-bay-beach-club.webp",
-    "region": "Cape coastline"
+    "url": "https://www.airbnb.co.uk/rooms/1739875419683374772",
+    "image": "assets/airbnb-1739875419683374772.webp",
+    "region": "Big Bay · Bloubergstrand",
+    "short": "2 bedrooms · 3 beds · 1 bathroom",
+    "description": "14 Big Bay Beach Club is part of our Cape Town collection. 2 bedrooms. 3 beds. 1 bathroom. View the Airbnb listing for full amenities, availability and current rates."
   },
   {
-    "name": "1405 Blouberg Heights",
-    "url": "https://capecoaststays.com/product/1405-blouberg-heights/",
-    "image": "assets/1405-blouberg-heights.webp",
-    "region": "Cape coastline"
+    "id": "176-blaauwberg",
+    "name": "176 Blauuwberg Rd",
+    "url": "https://www.airbnb.co.uk/rooms/1717993647466802718",
+    "image": "assets/airbnb-1717993647466802718.webp",
+    "region": "Cape Town",
+    "short": "2 bedrooms · 2 beds · 1 bathroom",
+    "description": "176 Blauuwberg Rd is part of our Cape Town collection. 2 bedrooms. 2 beds. 1 bathroom. View the Airbnb listing for full amenities, availability and current rates."
   },
   {
-    "name": "158 Eden on the Bay",
-    "url": "https://capecoaststays.com/product/158-eden-on-the-bay/",
-    "image": "assets/158-eden-on-the-bay.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "170 Eden on the Bay",
-    "url": "https://capecoaststays.com/product/170-eden-on-the-bay/",
-    "image": "assets/170-eden-on-the-bay.webp",
-    "region": "Cape coastline"
-  },
-  {
+    "id": "184-eden-on-the-bay",
     "name": "184 Eden on the Bay",
-    "url": "https://capecoaststays.com/product/184-eden-on-the-bay/",
-    "image": "assets/184-eden-on-the-bay.webp",
-    "region": "Cape coastline"
+    "url": "https://www.airbnb.co.uk/rooms/1687501273434554916",
+    "image": "assets/airbnb-1687501273434554916.webp",
+    "region": "Big Bay · Bloubergstrand",
+    "short": "2 bedrooms · 2 beds · 2 bathrooms",
+    "description": "184 Eden on the Bay is part of our Cape Town collection. 2 bedrooms. 2 beds. 2 bathrooms. View the Airbnb listing for full amenities, availability and current rates."
+  },
+  {
+    "id": "303-witsand",
+    "name": "303 Witsand",
+    "url": "https://www.airbnb.co.uk/rooms/1739869833078524703",
+    "image": "assets/airbnb-1739869833078524703.webp",
+    "region": "Bloubergstrand",
+    "short": "2 bedrooms · 5 beds",
+    "description": "303 Witsand is part of our Cape Town collection. 2 bedrooms. 5 beds. View the Airbnb listing for full amenities, availability and current rates."
+  },
+  {
+    "id": "703-witsand",
+    "name": "703 Witsand",
+    "url": "https://www.airbnb.co.uk/rooms/1744942361093356491",
+    "image": "assets/airbnb-1744942361093356491.webp",
+    "region": "Bloubergstrand",
+    "short": "2 bedrooms · 2 beds · 1.5 bathrooms",
+    "description": "703 Witsand is part of our Cape Town collection. 2 bedrooms. 2 beds. 1.5 bathrooms. View the Airbnb listing for full amenities, availability and current rates."
+  },
+  {
+    "id": "158-eden-on-the-bay",
+    "name": "158 Eden on the Bay",
+    "url": "https://www.airbnb.co.uk/rooms/902133861433152208",
+    "image": "assets/airbnb-902133861433152208.webp",
+    "region": "Big Bay · Bloubergstrand",
+    "short": "2 bedrooms · 3 beds · 2.5 bathrooms",
+    "description": "158 Eden on the Bay is part of our Cape Town collection. 2 bedrooms. 3 beds. 2.5 bathrooms. View the Airbnb listing for full amenities, availability and current rates."
   },
   {
     "name": "203 La Cabina",
     "url": "https://capecoaststays.com/product/203-la-cabina/",
     "image": "assets/203-la-cabina.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "205 Ocean Mist",
-    "url": "https://capecoaststays.com/product/205-ocean-mist/",
-    "image": "assets/205-ocean-mist.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "44 Balmoral Heights",
-    "url": "https://capecoaststays.com/product/balmoral-heights-with-pool/",
-    "image": "assets/balmoral-heights-with-pool.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "6 sleeper",
-    "url": "https://capecoaststays.com/product/6-sleeper/",
-    "image": "assets/6-sleeper.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "63 Balmoral Heights",
-    "url": "https://capecoaststays.com/product/balmoral-heights-by-the-beach/",
-    "image": "assets/balmoral-heights-by-the-beach.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "8 sleeper house Voelklip (Hermanus)",
-    "url": "https://capecoaststays.com/product/8-sleeper-house-voelklip-hermanus/",
-    "image": "assets/8-sleeper-house-voelklip-hermanus.webp",
-    "region": "Hermanus"
-  },
-  {
-    "name": "97 Thornhill",
-    "url": "https://capecoaststays.com/product/97-thornhill/",
-    "image": "assets/97-thornhill.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "High Tide \u2013 Blouberg Beach Villa",
-    "url": "https://capecoaststays.com/product/high-tide-blouberg-beach-villa/",
-    "image": "assets/high-tide-blouberg-beach-villa.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "Lagoon Cottage (Hermanus)",
-    "url": "https://capecoaststays.com/product/lagoon-cottage/",
-    "image": "assets/lagoon-cottage.webp",
-    "region": "Hermanus"
-  },
-  {
-    "name": "Low Tide \u2013 Blouberg Beach Villa",
-    "url": "https://capecoaststays.com/product/low-tide-blouberg-beach-villa/",
-    "image": "assets/low-tide-blouberg-beach-villa.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "Modern Villa",
-    "url": "https://capecoaststays.com/product/modern-villa/",
-    "image": "assets/modern-villa.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "Nirvana 1",
-    "url": "https://capecoaststays.com/product/nirvana-1/",
-    "image": "assets/nirvana-1.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "Nirvana 5",
-    "url": "https://capecoaststays.com/product/nirvana-5-2/",
-    "image": "assets/nirvana-5-2.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "Portico 902",
-    "url": "https://capecoaststays.com/product/portico-902/",
-    "image": "assets/portico-902.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "Sprigg Villa",
-    "url": "https://capecoaststays.com/product/sprigg-villa/",
-    "image": "assets/sprigg-villa.webp",
-    "region": "Cape coastline"
-  },
-  {
-    "name": "Spring Tide \u2013 Blouberg Beach Villa",
-    "url": "https://capecoaststays.com/product/spring-tide-blouberg-beach-villa/",
-    "image": "assets/spring-tide-blouberg-beach-villa.webp",
-    "region": "Cape coastline"
+    "region": "Blouberg",
+    "id": "203-la-cabina",
+    "short": "1 bedroom · King-size bed · Balcony",
+    "description": "A modern 1-bedroom apartment near the beach, with a king-size bed, en-suite bathroom, fully equipped kitchen and a balcony with Table Mountain and ocean views."
   }
 ]
